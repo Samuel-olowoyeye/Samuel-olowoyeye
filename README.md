@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Samtech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sammy-olowoyeye-485b532a7/) 
 
 ## 💼  View My Personal Projects:
-**Travelers Lounge** <br/>
-Link: https://travelers-lounge.vercel.app
-
+**Jinstore Multivendor E-commerce site** <br/>
+Link: https://jinstore-multivendor-e-commerce-4od.vercel.app/
 **SMB Bank**<br/>
 Link: https://sm-bank-snowy.vercel.app/
 
