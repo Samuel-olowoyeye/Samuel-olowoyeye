@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 ## 💼  View My Personal Projects:
 **Jinstore Multivendor E-commerce site** <br/>
-Link: https://jinstore-multivendor-e-commerce-4od.vercel.app/
+Link: https://jinstore-multivendor-e-commerce-4od.vercel.app/ <br/>
+
 **SMB Bank**<br/>
 Link: https://sm-bank-snowy.vercel.app/
 
