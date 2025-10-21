@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 **Jinstore Multivendor E-commerce site** <br/>
 Link: https://jinstore-multivendor-e-commerce-4od.vercel.app/ <br/>
 
-**SMB Bank**<br/>
-Link: https://sm-bank-snowy.vercel.app/
+**JobHuntly**<br/>
+Link: https://job-huntly-eight.vercel.app <br/>
 
 **Multiple Step Form**<br/>
 Link: https://multiple-step-form-six.vercel.app/
