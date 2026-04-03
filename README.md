@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 💼  View My Personal Projects:
 **Jinstore Multivendor E-commerce site** <br/>
-Link: https://jinstore-multivendor-e-commerce-4od.vercel.app/ <br/>
+Link: https://jinstore-ecommerce.vercel.app <br/>
 
 **JobHuntly**<br/>
 Link: https://job-huntly-eight.vercel.app <br/>
